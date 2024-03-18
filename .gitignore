@@ -1,0 +1,4 @@
+log/
+syslog-ng.ctl
+syslog-ng.persist
+syslog-ng.pid
